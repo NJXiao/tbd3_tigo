@@ -89,7 +89,7 @@ El sistema contempla:
 ##  Integrantes
 
 - **Alan Mauricio Gomez Alanes**
-- **Nicole Jhuliana**
+- **Nicole Jhuliana Herbas Guzman**
 
 ---
 
