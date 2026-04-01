@@ -1,7 +1,7 @@
 # Integrantes del Proyecto
 
 - Alan Mauricio Gomez Alanes
-- Nicole Jhuliana
+- Nicole Jhuliana Herbas Guzman
 
 ## Materia
 Taller de Base de Datos I
