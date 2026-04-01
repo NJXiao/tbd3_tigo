@@ -4,7 +4,7 @@
 - Nicole Jhuliana
 
 ## Materia
-Base de Datos I
+Taller de Base de Datos I
 
 ## Proyecto
 Sistema de Gestión de Telecomunicaciones - Tigo Bolivia
