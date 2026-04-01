@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Nicole Jhuliana
+## 2. Nicole Jhuliana Herbas Guzman
 **Rol:** Analista y Documentadora
 
 **Responsabilidades:**
