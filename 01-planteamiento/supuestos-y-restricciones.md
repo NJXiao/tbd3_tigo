@@ -17,7 +17,7 @@ Se asume que cada línea telefónica opera bajo una única modalidad activa (pre
 ---
 
 ## 3. Recargas
-Se asume que las recargas solo pueden ser realizadas por líneas de tipo prepago. Cada recarga está asociada a una única línea y registra el monto, fecha y medio de recarga.
+Se asume que las recargas solo pueden ser realizadas por líneas de tipo prepago y postpago. Cada recarga está asociada a una única línea y registra el monto, fecha y medio de recarga.
 
 ---
 
