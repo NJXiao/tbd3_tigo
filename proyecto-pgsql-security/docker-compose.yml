@@ -1,0 +1,28 @@
+services:
+
+  postgres:
+
+    image: postgres:16
+
+    container_name: postgres_secure
+
+    restart: always
+
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: Admin123
+      POSTGRES_DB: empresa
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      - ./config/postgresql.conf:/etc/postgresql/postgresql.conf
+      - ./config/pg_hba.conf:/etc/postgresql/pg_hba.conf
+      - ./scripts:/scripts
+
+    command: >
+      postgres
+      -c config_file=/etc/postgresql/postgresql.conf
+      -c hba_file=/etc/postgresql/pg_hba.conf
